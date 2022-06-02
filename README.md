@@ -3,7 +3,7 @@ Install the dependencies using
 pip install requirements.txt
 ```
 
-Then run the deployment server using
+Then run the deployment server
 ```python3
 python manage.py runserver
 ```
